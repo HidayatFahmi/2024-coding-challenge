@@ -3,3 +3,8 @@ https://www.youtube.com/watch?v=_9TeAkRddqc&list=PLFIM0718LjIVrOglQcS_ZHkT5T_27C
 
 
 1. reduce but grow
+2. reverse sequence
+- const reverseSeq = n => [...Array(n)].map((el,i)=>n-i);
+  atau
+- const reverseSeq = n => Array(n).fill().map((el,i)=>n-i);
+
