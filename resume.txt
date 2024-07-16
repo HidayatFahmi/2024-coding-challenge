@@ -7,3 +7,7 @@ https://www.youtube.com/watch?v=JCDVi5Pot30&list=PLFIM0718LjIVrOglQcS_ZHkT5T_27C
   atau
 - const reverseSeq = n => Array(n).fill().map((el,i)=>n-i);
 
+3. is He gonna survive
+4. Sentence smash
+5. Will you make item
+
